@@ -1,21 +1,27 @@
 # ♟ MChess ♟
 
-### Github Pages :
+#### Github Pages :
 https://ilxn.github.io/MChess/
 
-### ~Webhost~ (HS) :
+#### ~Webhost~ (HS) :
 ~https://mchess.000webhostapp.com/fr/index.html~
 
-###
-_____________________________________________
-Simple site d'échecs né de ma passion du jeu.
+
+_____________________________________________________________
+Simple site d'échecs né de ma passion du jeu *(et du web dev*)
 
 Discord: https://discord.gg/g9xeA42GNR 
-_____________________________________________
+_____________________________________________________________
+
+### Fonctionnalités: 
 - Langues : 🇫🇷Français, 🇬🇧Anglais, 🇩🇪Allemand
 - Chessbot et Daily Puzzle
 - Chat lié au serveur Discord
 - Leçons, Conseils d'ouvertures ...
+
+### Changements prévus:
+- Parties en lignes (LiveChess)
+- Inscription
 
 
 
