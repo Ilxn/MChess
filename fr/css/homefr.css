@@ -29,7 +29,6 @@ nav {
 /* ___________________ Revoir Adapatation video_________________________*/ 
 #trailer{
 	width: 100%; 	max-width: 100%; 	height: 100%;
-	padding-bottom: 50%;
 	border: 20px ;
 	position: relative;
 	background: #404040;
@@ -42,6 +41,7 @@ nav {
 	height: 80%;
 	top: 0;
 	left: 0;
+    cursor: pointer;
 }
 
 .acc hr{
@@ -50,7 +50,24 @@ nav {
 	background: linear-gradient(to right, rgba(41,124,217,1),rgba(151,15,188,1 ));
 }
 
+#masterleague {
+    padding-top: 5%;
+    width: 100%;    max-width: 100%;    height: 100%;
+    border: 20px ;
+    position: relative;
+    background: #404040;
+}
 
+#masterleague img{
+    width: 80%;
+    max-width: 80%;
+    height: 80%;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+
+    
 
 
 /*__________________________________Barre Menu Accueil________________________________________________________*/
