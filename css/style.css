@@ -6,7 +6,6 @@
 	text-decoration: none;
 }
 
-
 header h1{
 	background: linear-gradient(172deg, rgba(41,124,217,1) 16%, rgba(105,73,215,1) 50%, rgba(151,15,188,1) 100%);
 	font-size: 60px;
@@ -19,7 +18,39 @@ body{
 	background: white;
 }
 
+.bg div{
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%; -50%);
+}
+.bg h1{
+  top: 200px;
+  width: 100%;
+  color: white;
+  font-size: 70px;
+}
+.bg p{
+  color: #BABBBB;
+  font-size: 20px
+}
+.bg a{
+  font-weight: bold;
+  color: white;
+}
 
+.bg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.bg img{
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height:100%;
+}
 
 
 
@@ -33,9 +64,9 @@ body{
   position: relative;
 }
 .wrapper .menu-btn{
-  position: absolute;
+  position: fixed;
   left: 20px;
-  top: 10px;
+  top: 120px;
   background: linear-gradient(to right, rgba(41,124,217,1),rgba(151,15,188,1 ));
   color: #fff;
   height: 45px;
